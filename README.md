@@ -1,2 +1,2 @@
-# Computer-Vision-FInal-Project---Binary-Image-Classification
+# Computer-Vision-Final-Project--
 DIAGNOSIS OF ALZHEIMER’S DISEASE USING BINARY CLASSIFICATION CNN OF MRI SCANS
